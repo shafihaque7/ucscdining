@@ -1,5 +1,5 @@
 # UCSC Dining
-http://ucscdining.com
+http://www.ucscdining.com
 
 ![main](https://github.com/shafihaque7/Website/blob/master/demo1.gif)
 
