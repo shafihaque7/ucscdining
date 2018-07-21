@@ -1,5 +1,5 @@
 # UCSC Dining
-http://antu.techthatinterest.com
+http://ucscdining.com
 
 ![main](https://github.com/shafihaque7/Website/blob/master/demo1.gif)
 
