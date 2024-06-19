@@ -1,7 +1,7 @@
 # UCSC Dining
 This version of the app is deprecated
 
-New version: http://www.ucscdining.com
+New version: http://ucscdining.com
 
 New version github: https://github.com/shafihaque7/UCSC-dining-updated-version-
 
